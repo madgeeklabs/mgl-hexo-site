@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: MadGeekLabs - mgl
+subtitle: Experts Developers
+description: Blog
 author: John Doe
-email:
-language:
+email: info@madgeeklabs.com
+language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.madgeeklabs.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
