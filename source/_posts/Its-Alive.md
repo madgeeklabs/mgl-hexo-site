@@ -5,7 +5,7 @@ tags: #newbeginnig
 It's it here where the text goes?
 It does certainly seems so.
 
-So this is our home site for our budding adventure. 
+So this is our blog site for our budding adventure. 
 
 Stay tuned!
 
